@@ -33,3 +33,6 @@ roslaunch point_cloud_filter point_cloud_filter.launch<br />
 Then, click Spacebar key.<br />
 
 Note: Update the rviz visualization topic to the one corresponding to the topic in step 4.
+
+Groud points are published on: /ground_points topic. <br />
+Non-ground points are published on: /non_ground_points topic. <br />
